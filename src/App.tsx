@@ -9,10 +9,10 @@ function App() {
   return (
     <div>
       <div className="mx-auto space-y-3">
-        <Header/>
-        <ColorPicker/>
+        <Header />
+        <ColorPicker />
         <Canvas />
-        <Utility/>
+        <Utility />
       </div>
     </div >
   );
