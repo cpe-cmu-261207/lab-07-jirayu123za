@@ -9,4 +9,4 @@ const Utility = () => {
   )
 }
 
-export default 
+export default Utility
